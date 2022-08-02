@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnchkv
 - 👀 I’m interested in programming, cycling
-- 🌱 I’m currently learning Ruby on rails, nodejs, electronjs
+- 🌱 I’m currently learning Ruby on rails, nodejs, electronjs, mongodb
 - 💞️ I’m looking to collaborate on RoR, js
 - 📫 How to reach me arnchkv@gmail.com
 
